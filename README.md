@@ -11,7 +11,7 @@ O projeto tem como objetivo explorar conceitos de organização de layouts em co
   <img src="previewServicos.png" alt="Prévia da Seção de Serviços" width="900">
 </p>
 
-🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto13Proa-Secaodeservicosdeumsite/)**
+🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto13Proa-SecaoServicosSite/)**
 
 ## Funcionalidades e características
 
@@ -49,7 +49,7 @@ Durante o desenvolvimento, foram praticados conceitos como:
 
 ## 📂 Como executar o projeto
 
-🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto13Proa-Secaodeservicosdeumsite/)**
+🔗 **[Acesse o projeto online](https://gabrielc0liveira.github.io/Projeto13Proa-SecaoServicosSite/)**
 
 ---
 
